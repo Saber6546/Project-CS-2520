@@ -2,8 +2,8 @@
 
 ![Expense Tracker](https://github.com/Saber6546/Project-CS-2520/blob/main/image1.PNG?raw=true)
 ![Expense Tracker](https://github.com/Saber6546/Project-CS-2520/blob/main/image2.PNG?raw=true)
-![Expense Tracker](https://github.com/Saber6546/Project-CS-2520/blob/main/image1.PNG?raw=true)
-https://github.com/Saber6546/Project-CS-2520/blob/main/image2.PNG?raw=true
+![Expense Tracker](https://github.com/user-attachments/assets/4d4f492a-bac2-4711-8d15-3411d86e4e6e)
+
 
 ## Introduction
 
