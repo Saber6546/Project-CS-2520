@@ -1,7 +1,6 @@
 # Expense Tracker with Visualization
 
-![Expense Tracker](https://your-image-url-here.com) <!-- Replace with an actual image or logo URL -->
-
+(https://github.com/Saber6546/Project-CS-2520/blob/main/image1.PNG?raw=true)
 
 ## Introduction
 
