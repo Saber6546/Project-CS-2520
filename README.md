@@ -23,32 +23,49 @@ The **Expense Tracker** is a Python-based application designed to simplify perso
 - **Pandas:** Manages and manipulates expense data.
 - **Matplotlib and Seaborn:** Libraries for creating visualizations.
 
-Usage
-Login Interface
-Registration:
+## Usage
 
-Username: Enter a unique username.
-Password: Enter a password.
-Register Button: Click to create a new user account. If the username is already taken, an error message will appear.
-Login:
+### Login Interface
 
-Username: Enter your registered username.
-Password: Enter your password.
-Login Button: Click to access the expense tracker. If the credentials are incorrect, an error message will appear.
-Data Entry Interface
-Adding Expenses:
+**Registration:**
 
-Date: Enter the date of the expense (YYYY-MM-DD).
-Category: Enter a category for the expense (e.g., groceries, utilities).
-Amount: Enter the amount spent (numerical value).
-Add Expense Button: Click to record the expense. A confirmation message will appear if the expense is added successfully.
-Visualization
-Visualize Button: Click to display a visual representation of expenses.
-Bar Graph: Categorizes total expenses by category.
-Line Graph: Depicts monthly expenses over time to track spending patterns.
-Data Storage
+- **Username:** Enter a unique username.
+- **Password:** Enter a password.
+- **Register Button:** Click to create a new user account. If the username is already taken, an error message will appear.
+
+**Login:**
+
+- **Username:** Enter your registered username.
+- **Password:** Enter your password.
+- **Login Button:** Click to access the expense tracker. If the credentials are incorrect, an error message will appear.
+
+### Data Entry Interface
+
+**Adding Expenses:**
+
+- **Date:** Enter the date of the expense (YYYY-MM-DD).
+- **Category:** Enter a category for the expense (e.g., groceries, utilities).
+- **Amount:** Enter the amount spent (numerical value).
+- **Add Expense Button:** Click to record the expense. A confirmation message will appear if the expense is added successfully.
+
+### Visualization
+
+- **Visualize Button:** Click to display a visual representation of expenses.
+  - **Bar Graph:** Categorizes total expenses by category.
+  - **Line Graph:** Depicts monthly expenses over time to track spending patterns.
+
+### Data Storage
+
 The expense data is stored in a CSV file with the following structure:
 
-Date: Date of the expense in the format YYYY-MM-DD.
-Category: Category of the expense (e.g., "Food," "Utilities").
-Amount: Monetary value of each expense.
+- **Date:** Date of the expense in the format YYYY-MM-DD.
+- **Category:** Category of the expense (e.g., "Food," "Utilities").
+- **Amount:** Monetary value of each expense.
+
+Here's how the data might be structured in the CSV file:
+
+| Date       | Category     | Amount |
+|------------|--------------|--------|
+| 2024-07-01 | Groceries    | 50.00  |
+| 2024-07-02 | Utilities    | 75.00  |
+| 2024-07-03 | Entertainment| 30.00  |
