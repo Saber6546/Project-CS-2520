@@ -1,6 +1,7 @@
 # Expense Tracker with Visualization
 
-(https://github.com/Saber6546/Project-CS-2520/blob/main/image1.PNG?raw=true)
+![Expense Tracker]((https://github.com/Saber6546/Project-CS-2520/blob/main/image1.PNG?raw=true))
+
 
 ## Introduction
 
